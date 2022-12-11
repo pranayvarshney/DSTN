@@ -1,5 +1,0 @@
-drwxr-xr-x 1     pranay     pranay         70 Wed Oct 26 16:25                    .
-drwxr-xr-x 1     pranay     pranay        502 Wed Oct 26 16:24                   ..
-drwxr-xr-x 1     pranay     pranay         98 Wed Oct 26 16:26                 .git
-drwxr-xr-x 1     pranay     pranay         18 Wed Oct 26 16:25       Disk_Scheduler
-drwxr-xr-x 1     pranay     pranay         36 Wed Oct 26 16:27    LS_implementation
