@@ -162,7 +162,7 @@ bool FileSystem::mount(Disk *disk)
     {
         return false;
     }
-
+    
     // Set device and mount
     this->disk = disk;
     disk->mount();
@@ -256,9 +256,7 @@ ssize_t FileSystem::create()
             break;
         }
     }
-
     // Record inode if found
-
     return inodeNumber;
 }
 
